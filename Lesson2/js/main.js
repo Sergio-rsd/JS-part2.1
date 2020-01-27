@@ -28,6 +28,12 @@ class CartItem extends GoodsItem {
     render() {
 
     }
+    plusCount(){
+
+    }
+    minusCount(){
+        
+    }
 }
 class GoodsList {
     constructor(container) {
